@@ -1,0 +1,9 @@
+
+syntax: glob
+
+*.orig
+*.swp
+*.pyc
+static/img/math/**
+format/test/artifacts/**
+
